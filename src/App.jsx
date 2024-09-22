@@ -16,7 +16,7 @@ const formatDate = (timestamp) => {
 };
 
 const getPlaceName = (latitude, longitude) => {
-  return `Place (${latitude}, ${longitude})`; // Replace with actual place name
+  return `Place (${latitude}, ${longitude})`; 
 };
 
 const CustomTooltip = ({ active, payload, label }) => {
