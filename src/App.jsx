@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import react, { useEffect, useState } from "react";
 import {
   LineChart,
   Line,
